@@ -8,8 +8,6 @@ Estrutura do projeto
 - `analysis_notebook.ipynb` → Notebook com análise exploratória (EDA).
 - `report.txt` → Relatório com hipóteses, análises e recomendação de gênero.
 - `requirements.txt` → Dependências para rodar os códigos.
-- `shaw_prediction.txt` → Previsão da nota IMDb para *The Shawshank Redemption*.
-- `summary.json` → Métricas do modelo e resumo dos outputs.
 - `README.md` → Este arquivo.
 
 Como rodar o projeto
